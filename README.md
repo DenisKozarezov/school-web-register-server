@@ -1,5 +1,7 @@
 # school-web-register-server
 
+This is backend implemention. Frontend is located here: https://github.com/jdt-w/school-web-register-client
+
 This project is a course work completed in the first year of the master's degree in the discipline "Computer technology in science and education". The main goal of the project is to develop an educational platform for distance education. The result of the course work is a developed backend based on stack ```ASP.NET + Entity Frameworks + MS SQL Server```.
 
 For tests I used the service called ```Postman```. For database requests I experimented with different implementations such as ```GraphQL/Rest```.
